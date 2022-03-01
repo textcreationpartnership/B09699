@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the gentry, ministers, and commonalty of the county of Kent agreed upon at the Generall assizes last holden for that county : the copie of which petition being delivered to Judge Mallet (who was for that circuit) and afterwards to the Earle of Bristoll : which petition being concealed from the Parliament by the Earle of Bristoll and the said Iudge Mallet, was for the same, both committed to the Tower, March 28, 1642.</title>
+            <author>Peirce, Edmond, Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09699</idno>
+            <idno type="STC">Wing P1065A</idno>
+            <idno type="STC">ESTC R187040</idno>
+            <idno type="EEBO-CITATION">61297122</idno>
+            <idno type="OCLC">ocm 61297122</idno>
+            <idno type="VID">180646</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09699)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180646)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2838:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the gentry, ministers, and commonalty of the county of Kent agreed upon at the Generall assizes last holden for that county : the copie of which petition being delivered to Judge Mallet (who was for that circuit) and afterwards to the Earle of Bristoll : which petition being concealed from the Parliament by the Earle of Bristoll and the said Iudge Mallet, was for the same, both committed to the Tower, March 28, 1642.</title>
+                  <author>Peirce, Edmond, Sir.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Edmond Peirce. Ct. Wing (2nd ed.).</note>
+                  <note>Date taken from colophon.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Malet, Thomas, --  Sir, ca. 1582-1665.</term>
+               <term>Bristol, John Digby, --  Earl of, 1580-1654.</term>
+               <term>Kent (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180646:1"/>
+            <pb facs="tcp:180646:1" rendition="simple:additions"/>
+            <p>THE PETITION Of the Gentry, Miniſters, and Com<g ref="char:EOLhyphen"/>monalty of the County of KENT.</p>
+            <p>Agreed upon the Generall Aſſizes laſt holden for that County.</p>
+            <p>The Copie of which Petition being delivered to Judge <hi>Mallet</hi> (who was for that Circuit) and afterwards to the Earle of <hi>Briſtoll.</hi>
+            </p>
+            <p>VVhich Petition being concealed from the Parliament by the Earle of <hi>Briſtoll</hi> and the ſaid Iudge <hi>Mallet,</hi> was for the ſame both committed to the Tower, <hi>March</hi> 28. 1642.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>S. H.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:180646:2"/>
+            <pb facs="tcp:180646:2" rendition="simple:additions"/>
+            <head>To the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons Aſſembled in PARLIAMENT.</head>
+            <head type="sub">The Humble Petition of the Gentry, Ministers, and Commonnalty of the County of Kent, agreed upon, at the geneerall Aſſizes of the County.</head>
+            <opener>Moſt humbly ſheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat wee cannot but take notice, how welcome to this Hono<g ref="char:EOLhyphen"/>rable Houſe, many Petitions have beene, which yet came not from an Aſſembled body of any County (as this doth) we do therefore hope to finde as gentle and favourable a re<g ref="char:EOLhyphen"/>ception of this as any other have found of their Peti<g ref="char:EOLhyphen"/>tions, our hearts witneſſing unto us, as good, peace<g ref="char:EOLhyphen"/>able, and pious purpoſes as the beſt.</p>
+            <p>
+               <hi>Theſe are therefore the true and Ardent de<g ref="char:EOLhyphen"/>ſires of this County.</hi>
+            </p>
+            <list>
+               <item>1. That you will be pleaſed to accept our due and
+<pb facs="tcp:180646:3"/>hearty thanks for thoſe excellent Laws (which by his Majeſties grace &amp; goodnes) you have obtained for us.</item>
+               <item>2. That all Laws againſt Papiſts, be put in due ex<g ref="char:EOLhyphen"/>ecu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion, and an accompt taken of their diſarming, and that all Children of the Papiſts, may be brought up in the reformed Religion.</item>
+               <item>3. That the Solemne <hi>Litturgy</hi> of the Church of <hi>England</hi> (Celebrious by the piety of the Biſhops and Martyrs who compoſed it) eſtabliſht by the ſupream Laws of this Land, atteſted and approved by the beſt of all Forraigne Divines, confirmed by the ſuſcrip<g ref="char:EOLhyphen"/>tion of all the Miniſtry of this Land. A Cleargy as able and Learned as any in the Chriſtian world ere injoyed, and with a holy love embraced by the moſt and beſt of all the Laity, that this holy exerciſe of Re<g ref="char:EOLhyphen"/>ligion may by your Authority be injoyed quiet and free from interruptions, ſcornes, prophanenes, threats and force of ſuch men, who dayly do deprave it, and neglect the uſe of it in divers Churches, in deſpight of the Laws eſtabliſhed.</item>
+               <item>4. That Epiſcopall Government, as Ancient in this Iland as Chriſtianity it ſelfe, deduced and diſper<g ref="char:EOLhyphen"/>ſed throughout the Chriſtian world, even from the A<g ref="char:EOLhyphen"/>poſtolicall times, may be preſerved (as the moſt pious moſt prudent, and moſt ſafe Government) for the peace of the Church.</item>
+               <item>5. That all differences concerning. Religion and Ceremonies, may be referred to a Lawfull, free, and Nationall Synod, as your Remonſtrance promiſeth, to a generall Synod of moſt grave, learned, pious and Iudicious Divines, (the proper Agents) whoſe inter<g ref="char:EOLhyphen"/>eſts, gifts, and callings, may quicken them in that gret Worke, whoſe choyce to be by all the Cleargy
+<pb facs="tcp:180646:3"/>of the Land, becauſe all the Cleargy are to be bound by their Reſolutions, and the determination of this Synod to bind us all, when you have firſt formed them into a Law, and this we take to be according to the ancient and fundamentall Law of this Land, con<g ref="char:EOLhyphen"/>fi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>med by <hi>Magna Charta.</hi>
+               </item>
+               <item>6. That ſome ſpeedy and good proviſion may be made (as by his Majeſty hath been and is by all good men deſired) againſt the odious and abominable ſcan<g ref="char:EOLhyphen"/>dall of ſchiſmatical and ſeditious Sermons and Pam<g ref="char:EOLhyphen"/>phlets, and ſome ſevere Law made againſt Lay men, for daring to arrogate to themſelves &amp; to execute the holy function of the Miniſtry, who (ſome of them) do ſow their impious and diſcontented Doctrin even in Sacred places, by abuſe of Sacred Ordinances, to the advancing of Hereſie, Schiſme, Profaneneſſe, Li<g ref="char:EOLhyphen"/>bertiniſme, Anabaptiſme, and Atheiſme.</item>
+               <item>7. That if the coertive power of Eccleſiaſticall Courts by way of Excommunication bee already abrogated, or ſhal be thought fit ſo to be, that there be ſome other power and authority ſpeedily eſtabliſhed, for ſuppreſſing the heynous and now ſo much aboun<g ref="char:EOLhyphen"/>ding ſins of Inceſt, Adultery, and Fornication, and other crimes, and for recovering Tythes, repairing of Churches, Probate of Wills, Church aſſeſſes, provi<g ref="char:EOLhyphen"/>ding bread and Wine for the Communion, &amp; choice of Church-wardens, and other officers in the Church and eſpecially for Miniſters, who neglect the Cele<g ref="char:EOLhyphen"/>brating of the Holy Communion, and the Pariſhio<g ref="char:EOLhyphen"/>ners for not receiving.</item>
+               <item>8. That the Profeſſors of that Learned faculty of the Civill Law, and (without which this Kingdome cannot but ſuffer manifold inconveniences) may not find diſcouragements, and ſo divert their Studies and Profeſſions.</item>
+               <item>
+                  <pb facs="tcp:180646:4"/>
+9. That honour and profits the powerful encou<g ref="char:EOLhyphen"/>ragements of induſtry, Learning, and Piety, may be preſerved without further dimination to the Clergy.</item>
+               <item>10. That you pleaſe ſadly to conſider the bleeding wounds of our Brethren in <hi>Ireland,</hi> and with ſpeedy ſuccours endeavour to preſerve them, whereunto his Majeſty hath promiſed a gracious concurrence.</item>
+               <item>11. That you pleaſe to frame an eſpeciall Law for the Regulating of the <hi>Militia</hi> of this Kingdome, ſo that the Subject may know how at once to obey both his Majeſty and both Houſes of Parliament, a Law whereby may be left to the diſcretion of Governors, as little as may be, but that the number of Armes and what meaſure of puniſhment ſhall be inflicted upon the offendors, may be expreſly ſet down in the Act, and not left to any Arbitrary power, and that accor<g ref="char:EOLhyphen"/>ding to the preſident of former Lawes the offendors may not be tryed out of the County.</item>
+               <item>12. That the Precious Liberty of the Subject (the common birth right of every <hi>Engliſhman</hi>) may be as in all theſe points preſerved entire, ſo in this alſo, that no order of either of both Houſes not grounded on the Lawes of this Land, may be enforced on the Subject, till it be fully enacted by parliament.</item>
+               <item>13. That his Majeſties gracious Meſſage of the 20. of <hi>Ian.</hi> laſt, for the preſent and future eſtabliſh<g ref="char:EOLhyphen"/>ment of the Priviledges of Parliament, the free enjoy<g ref="char:EOLhyphen"/>ing of our eſtates and Fortunes, the liberty of our per<g ref="char:EOLhyphen"/>ſons, the ſecurity of the true Religion profeſſed, the maintaining of his Majeſties Iuſt and Regall Autho<g ref="char:EOLhyphen"/>rity, the eſtabliſhing his Revenue, may be taken in<g ref="char:EOLhyphen"/>to ſpeedy conſideration, the effecting whereof wil ſa<g ref="char:EOLhyphen"/>tisfie the deſires of all us, his faithfull and loving Sub<g ref="char:EOLhyphen"/>jects,</item>
+               <item>
+                  <pb facs="tcp:180646:4"/>
+14. That all poſſible care may be taken, that the Native Commodities of this Kingdome, may have a quicke vent, and that Cloathing, and other Manufac<g ref="char:EOLhyphen"/>tures may be improved, wherein the livelyhood of many thouſands do conſiſt, and that Trade may bee ballanced, that the importation do not exceed the ex<g ref="char:EOLhyphen"/>portation, otherwiſe it will prove a conſumption of the Land.</item>
+               <item>15. That you pleaſe to frame ſome Lawes concer<g ref="char:EOLhyphen"/>ning Depopulations, Purveyances, Cart-taking, de<g ref="char:EOLhyphen"/>layes in Iuſtice, Trafficke, Fiſhing in the Coaſts, Ful<g ref="char:EOLhyphen"/>ling earth, that out Sea Forts may be repaired, and our Magazins renewed.</item>
+               <item>16. That you pleaſe to conſider the generall po<g ref="char:EOLhyphen"/>verty that ſeemes to overgrow this Kingdome.</item>
+               <item>17. Laſtly, We humbly beſeech you to conſider the ſad condition, that we and the whole Land are in, if a good underſtanding be not ſpeedily renued be<g ref="char:EOLhyphen"/>tween his Majeſty and both houſes of Parliament.</item>
+            </list>
+            <p>Our hopes are yet above our feares, ſecure them we beſeech you, God direct and guide your conſulta<g ref="char:EOLhyphen"/>tions for the removing of all diſtruſts and Iealouſies, for the renewing that tye of confidence and truſt, (which is the higheſt happines) between our gracious Prince, and his loving Subjects.</p>
+            <p>
+               <hi>And you ſhall have the dayly prayers of your humble Orators of the Commonalty of <hi>Kent.</hi>
+               </hi>
+            </p>
+            <p>To meete at <hi>Blacke Heath</hi> the 29. of <hi>April,</hi> by 9. of the Clocke at the furtheſt to accompany this Pettion to the Parliament. 1642.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
